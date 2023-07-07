@@ -1,0 +1,1 @@
+Advanced html where I get to create a membership site using pure html semantics only. Implementing from scratch a webpage from a designer file.
